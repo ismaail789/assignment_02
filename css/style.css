@@ -1,0 +1,129 @@
+body {
+	margin: 0px
+}
+
+img {
+	max-width: 100%
+}
+
+.banner {
+		text-align: center;
+	padding: 130px 15%;
+}
+
+.bg01 {
+	background-image: url(../images/first_pic.jpg);
+}
+
+.bg02 {
+	background-image: url(../images/115803314_1627561567420800_44477154888951759_n.jpg);
+}
+
+.bg03 {
+	background-image: url(../images/116045045_700927134032840_5909121113738064672_n.jpg);
+}
+
+.bg04 {
+	background-image: url(../images/116043562_702582273808082_1415332600429014391_n.jpg);
+}
+
+h1 {
+    margin: 0px;
+    text-decoration: underline;
+    font-size: 75px;
+    color: #fff
+}
+
+p {
+    font-size: 20px;
+    font-variant: titling-caps;
+    font-style: oblique;
+    color: #fff;
+    line-height: 1.6;
+}
+
+.content-box1 {
+    background-color: #948d10b5;
+    padding: 26px 45px 24px;
+    color: #fff9
+}
+.content-box2 {
+    background-color: #a8c34aa6;
+    padding: 26px 45px 24px;
+    color: #fff9;
+}
+.content-box3 {
+    background-color: #e91e6380;
+    padding: 26px 45px 24px;
+    color: #fff9;
+}
+.content-box4 {
+    background-color: #ff880082;
+    padding: 26px 45px 24px;
+    color: #fff9;
+}
+body {
+	margin: 0px
+}
+
+img {
+	max-width: 100%
+}
+
+.banner {
+	text-align: center;
+	padding: 130px 15%;
+	background-attachment: fixed
+}
+
+.bg01 {
+	background-image: url(../images/first_pic.jpg);
+}
+
+.bg02 {
+	background-image: url(../images/115803314_1627561567420800_44477154888951759_n.jpg);
+}
+
+.bg03 {
+	background-image: url(../images/116045045_700927134032840_5909121113738064672_n.jpg);
+}
+
+.bg04 {
+	background-image: url(../images/116043562_702582273808082_1415332600429014391_n.jpg);
+}
+
+h1 {
+    margin: 0px;
+    text-decoration: underline;
+    font-size: 75px;
+    color: #fff
+}
+
+p {
+    font-size: 20px;
+    font-variant: titling-caps;
+    font-style: oblique;
+    color: #fff;
+    line-height: 1.6;
+}
+
+.content-box1 {
+    background-color: #948d10b5;
+    padding: 26px 45px 24px;
+    color: #fff9
+}
+.content-box2 {
+    background-color: #a8c34aa6;
+    padding: 26px 45px 24px;
+    color: #fff9;
+}
+.content-box3 {
+    background-color: #e91e6380;
+    padding: 26px 45px 24px;
+    color: #fff9;
+}
+.content-box4 {
+    background-color: #ff880082;
+    padding: 26px 45px 24px;
+    color: #fff9;
+}
